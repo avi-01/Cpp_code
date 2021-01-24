@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.js": "javascriptreact",
         "initializer_list": "cpp",
         "iostream": "cpp",
         "iomanip": "cpp",
@@ -71,6 +72,10 @@
         "thread": "cpp",
         "typeindex": "cpp",
         "typeinfo": "cpp",
-        "charconv": "cpp"
-    }
+        "charconv": "cpp",
+        "variant": "cpp"
+    },
+    "cSpell.words": [
+        "stoi"
+    ]
 }
